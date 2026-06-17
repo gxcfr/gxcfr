@@ -1,6 +1,16 @@
-<h1>Hi, I'm Gajendra Chaudhari</h1>
-<p>CSE PreFinal year student at Manipal University, Jaipur. </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1 align="center">Hey, I'm Gajendra.</h1>
+<h3 align="center">CSE Undergradute Student | Machine Learning Enthusiast | Problem Solver</h3>
+
+## About Me
+- 3rd Year B.Tech CSE Student at Manipal University Jaipur
+- Aspiring SDE from Pune
+- Building products, startups and **real-world applications**
+- Solving **DSA consistently**
+- Currently working on **AttendAI**
+
+---
+
+<h2>🚀 Tech Stack</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -16,10 +26,11 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
+<h2> My LeetCode stats</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gxcfr" />
 </p>
 
-<h2>⚡️ Where to find me</h2>
+<h2> Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/gajendrac" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/gxc.py" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
