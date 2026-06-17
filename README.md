@@ -3,7 +3,7 @@
 
 ## About Me
 - 3rd Year B.Tech CSE Student at Manipal University Jaipur
-- Aspiring SDE from Pune
+- Aspiring SDE 
 - Building products, startups and **real-world applications**
 - Solving **DSA consistently**
 - Currently working on **AttendAI**
